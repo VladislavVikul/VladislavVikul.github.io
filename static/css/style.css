@@ -33,6 +33,7 @@ ul{
 	width: 1140px;
 	margin: auto;
 }
+
 p{
 	padding: 8px;
 	font-family: Franklin Gothic Book;
@@ -42,6 +43,7 @@ p{
 	text-align: center;
 	margin-left: -30px;
 }
+
 #talk-info{
 	padding: 8px;
 	font-family: Franklin Gothic Book;
@@ -51,6 +53,7 @@ p{
 	text-align: center;
 	margin-left: -30px;
 }
+
 #home-info{
 	padding: 8px;
 	font-family: Franklin Gothic Book;
